@@ -1,5 +1,7 @@
 import StreamVideoProvider from '@/providers/StreamClientProvider'
 import React, { ReactNode } from 'react'
+import type { Metadata } from "next";
+
 
 export const metadata: Metadata = {
   title: "Zoom Video Calling App",
